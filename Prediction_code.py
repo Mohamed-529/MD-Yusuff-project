@@ -48,7 +48,7 @@ def build_model(input_shape):
     return model
 
 # Streamlit UI
-st.title("AI-Driven Stock Price Prediction")
+st.title("Apple Stock Price Prediction")
 df = load_data()
 
 
